@@ -8,9 +8,7 @@ import { ProjectsSection } from "./Components/ProjectsSection"
 import { SkillsSection } from "./Components/SkillsSection"
 
 function App() {
-
-  
-  return (
+ return (
     <div className="App">
       <Navbar />
       <HeroSection />
